@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"acc",
+				"access_token"
+			],
+			[
+				"st",
+				"stylesheet"
+			],
+			[
+				"ma",
+				"mailchimp_api_key"
+			],
+			[
+				"mai",
+				"mailchimp_list_name"
+			],
+			[
+				"mail",
+				"mailchimp_api_key"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"issue",
+				"issueUrl"
+			],
+			[
+				"OAu",
+				"OAuthPolicy"
+			],
+			[
+				"OA",
+				"OAuthCredential"
+			],
+			[
+				"TRE",
+				"TRELLO_CONSUMER_SECRET"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"file": "memdb/__init__.py",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 247.0,
+		"selected_items":
+		[
+			[
+				"ham",
+				"HTML2Haml: Convert clipboard content"
+			],
+			[
+				"ha",
+				"HTML2Haml: Convert clipboard content"
+			],
+			[
+				"ht",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"html",
+				"HTML2Haml: Convert file"
+			],
+			[
+				"haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"ssha",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"set sgi",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"synta r",
+				"Set Syntax: Ruby"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssp",
+				"Set Syntax: Python"
+			],
+			[
+				"ss: J",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pawel/Development/memdb/memdb/__init__.py",
+		"/Users/pawel/.ssh/config",
+		"/Users/pawel/Dropbox/hasła.txt",
+		"/Users/pawel/Development/atlassian/jira-master/.git/MERGE_MSG",
+		"/Users/pawel/.m2/settings.xml",
+		"/Users/pawel/Development/atlassian/jira-rest/release.",
+		"/Users/pawel/Development/atlassian/jira-rest/release.sh",
+		"/Users/pawel/Development/atlassian/jira-rest/pom.xml",
+		"/Users/pawel/Development/atlassian/jira-master/pom.xml",
+		"/Users/pawel/Dropbox/Shell/maven.sh",
+		"/Users/pawel/.gitconfig",
+		"/Users/pawel/Development/menu-on-steroids/app.rb",
+		"/Users/pawel/Development/menu-on-steroids/Gemfile",
+		"/Users/pawel/Development/menu-on-steroids/views/stylesheets/main.scss",
+		"/Users/pawel/Development/menu-on-steroids/views/layout.haml",
+		"/Users/pawel/Development/menu-on-steroids/views/index.haml",
+		"/Users/pawel/Development/menu-on-steroids/public/javascripts/index.js",
+		"/Users/pawel/Development/menu-on-steroids/menu-on-steroids.sublime-project",
+		"/Users/pawel/Dropbox/Shell/rbenv.sh",
+		"/Users/pawel/.profile",
+		"/Users/pawel/Dropbox/Shell/autojump.sh",
+		"/Users/pawel/Library/Logs/Homebrew/python3/config.log",
+		"/usr/local/Library/Formula/python3.rb",
+		"/Users/pawel/Dropbox/Shell/include",
+		"/Users/pawel/Development/atlassian/jira-master/.git/COMMIT_EDITMSG",
+		"/Users/pawel/Development/friend-zone/views/styles",
+		"/Users/pawel/Dropbox/Shell/git-prompt.bash",
+		"/Users/pawel/Dropbox/Shell/git-completion.sh",
+		"/Users/pawel/Dropbox/Shell/git.sh",
+		"/Users/pawel/Dropbox/Shell/git-prompt.sh",
+		"/Users/pawel/Development/atlassian/jira-openid-authentication-plugin/.git/COMMIT_EDITMSG",
+		"/opt/boxen/repo/README.md",
+		"/Applications/Server.app/Contents/ServerRoot/usr/bin/postgres",
+		"/Applications/Server.app/Contents/ServerRoot/usr/bin/postgres_real",
+		"/Users/pawel/Development/friend-zone/.env",
+		"/Users/pawel/Development/friend-zone/Gemfile",
+		"/Users/pawel/Development/friend-zone/.gitignore",
+		"/Users/pawel/Development/friend-zone/public/stylesheets/main.scss",
+		"/Users/pawel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/pawel/Development/pawelniewiadomski.com/web.rb",
+		"/Users/pawel/Development/pawelniewiadomski.com/views/layout.erb",
+		"/Users/pawel/Development/friend-zone/views/index.erb",
+		"/Users/pawel/Development/friend-zone/p2h",
+		"/Users/pawel/Development/friend-zone/app.rb",
+		"/Users/pawel/Development/blabla/config/initializers/mime_types.rb",
+		"/Users/pawel/Development/blabla/README.rdoc",
+		"/Users/pawel/Development/atlassian/jira-openid-authentication-plugin/pom.xml",
+		"/Users/pawel/Dropbox/Writer/Sparkle file.md",
+		"/Users/pawel/Dropbox/Writer/Paleomenu.md",
+		"/Users/pawel/Dropbox/Writer/Books.md",
+		"/Users/pawel/Dropbox/Shell/jira-qa.sh",
+		"/sourceme.sh",
+		"/Users/pawel/Development/Queued/Updates/appcast.xml",
+		"/Users/pawel/Dropbox/Shell/ssh.sh",
+		"/Users/pawel/Downloads/atlassian-jira-6.0.2-standalone/atlassian-jira/WEB-INF/classes/jira-application.properties",
+		"/Users/pawel/Development/atlassian-scripts/bin/jiraqa",
+		"/Users/pawel/Development/python-l20n/lib/__init__.py",
+		"/Users/pawel/Development/Sparkle/README.markdown",
+		"/Users/pawel/Development/atlassian/jopenid/pom.xml",
+		"/opt/local/etc/macports/macports.conf",
+		"/Users/pawel/Development/Queued/Updates/main.py",
+		"/Users/pawel/Development/Queued/Updates/app.yaml",
+		"/Users/pawel/Development/atlassian/automat/pom.xml",
+		"/usr/share/atlassian-plugin-sdk-4.2.0/apache-maven/conf/settings.xml",
+		"/Users/pawel/Development/Queued/Updates/app",
+		"/Users/pawel/Development/email-landing-page/app.rb",
+		"/Users/pawel/Development/hoopoeapp.com/web.rb",
+		"/Users/pawel/Development/hoopoeapp.com/Gemfile",
+		"/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/net/smtp.rb",
+		"/usr/bin/git",
+		"/Users/pawel/Development/hoopoeapp.com/views/thankyou.erb",
+		"/Users/pawel/Development/hoopoeapp.com/views/index.erb",
+		"/Users/pawel/Development/hoopoeapp.com/.git/COMMIT_EDITMSG",
+		"/Users/pawel/Development/hoopoeapp.com/views/thankyou.erb.html",
+		"/Users/pawel/Development/hoopoeapp.com/.env",
+		"/Users/pawel/Development/hoopoeapp.com/views/layout.erb",
+		"/Users/pawel/Downloads/11110000b@gmail.com-takeout/Czytnik/subscriptions.xml",
+		"/Users/pawel/Development/pawelniewiadomski.com/config.ru",
+		"/Users/pawel/Development/Queued/Podfile",
+		"/Users/pawel/Development/Queued/.git/TAG_EDITMSG",
+		"/Applications/Server.app/Contents/ServerRoot/usr/share/collabd/server/ruby/lib/collaboration.rb",
+		"/Applications/Server.app/Contents/ServerRoot/usr/sbin/collabd",
+		"/Applications/Server.app/Contents/ServerRoot/usr/share/collabd/coreclient/config/collabcored4.yml",
+		"/Library/Server/Web/Config/apache2/webapps/com.apple.webapp.collab.plist",
+		"/Library/Server/Web/Config/apache2/webapps/com.apple.webapp.collabd.settings.plist",
+		"/Library/Server/Web/Config/apache2/httpd_corecollaboration_required.conf",
+		"/Library/Server/Web/Config/apache2/httpd_corecollaboration_shared.conf",
+		"/Library/Server/Web/Config/apache2/httpd_corecollaboration_webauth.conf",
+		"/Library/Server/Web/Config/apache2/httpd_corecollaboration_webcal.conf",
+		"/Library/Server/Web/Config/apache2/httpd_server_app.conf",
+		"/Applications/Server.app/Contents/ServerRoot/usr/libexec/webdavsharing/webdavsharing_mapper",
+		"/etc/passwd",
+		"/Users/pawel/Development/Sparkle/Sample Appcast.xml",
+		"/Users/pawel/Development/Buffered/Buffered.podspec",
+		"/Users/pawel/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pawel/Development/Queued/xcode-git-version.sh",
+		"/Users/pawel/Library/Developer/Xcode/DerivedData/Queued-dggxaguyqhiemthevbespdepkfie/Build/Products/Debug/Queued.app/Contents/Info.plist",
+		"/Users/pawel/Documents/queuedupdates.appspot.com.xml",
+		"/Users/pawel/Development/Sparkle/Makefile",
+		"/Users/pawel/Development/Queued/Updates/index.yaml",
+		"/Users/pawel/Development/atlassian/automat/target/jira/home/automat/issueUpdated.sh",
+		"/Users/pawel/Development/Hoopoe/gtm-oauth-read-only/Source/GTMOAuth.xcodeproj/project.pbxproj",
+		"/Users/pawel/Development/trellomail/Gemfile",
+		"/Library/Ruby/Gems/1.8/gems/omniauth-trello-0.0.2/lib/omniauth/strategies/trello.rb",
+		"/Users/pawel/Development/ruby-trello/lib/trello/member.rb",
+		"/Users/pawel/Development/ruby-trello/lib/trello/board.rb",
+		"/Users/pawel/Development/trellomail/views/imap.erb",
+		"/Users/pawel/Development/trellomail/web.rb",
+		"/Users/pawel/Library/Application Support/RapidWeaver/Hero.rwtheme/Contents/js/raphael.js",
+		"/Users/pawel/Library/Application Support/RapidWeaver/Hero.rwtheme/Contents/js/yuzoolthemes.js",
+		"/Users/pawel/Development/Hoopoe/PXListView/PXListView-Library.xcconfig",
+		"/Library/Ruby/Gems/1.8/gems/omniauth-oauth-1.0.1/lib/omniauth/strategies/oauth.rb",
+		"/Library/Ruby/Gems/1.8/gems/omniauth-1.1.1/lib/omniauth/strategy.rb",
+		"/Library/Ruby/Gems/1.8/gems/oauth-0.4.7/lib/oauth/tokens/request_token.rb",
+		"/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/cgi.rb",
+		"/Users/pawel/Development/trellomail/config.ru",
+		"/Users/pawel/Development/trellomail/Procfile",
+		"/Users/pawel/Development/trellomail/views/index.erb",
+		"/Users/pawel/Development/trellomail/views/fail.erb",
+		"/Users/pawel/Development/trellomail/views/done.erb",
+		"/Users/pawel/Development/trellomail/showlogs",
+		"/Users/pawel/Development/trellomail/papertrail-heroku-plugin/test/papertrail_test.rb",
+		"/Users/pawel/Development/trellomail/push2heroku",
+		"/Users/pawel/Development/Hoopoe/Pods/Pods.xcodeproj/project.pbxproj",
+		"/Users/pawel/Development/Hoopoe/Pods/Pods-HoopoeTests.xcconfig",
+		"/Users/pawel/Library/bin/subl",
+		"/Users/pawel/Development/Hoopoe/Podfile",
+		"/Users/pawel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"KA",
+			"jira-is",
+			"uild these module",
+			"zlib",
+			"python",
+			"pythong",
+			"config",
+			"archiver",
+			"time",
+			"sinatra",
+			"descr",
+			"m2proxy.",
+			"central",
+			"@ssl_conte",
+			"joemo",
+			"wiki",
+			"wif",
+			"apple",
+			"name",
+			"omniauth trello",
+			"xcconfi",
+			"PODS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"maven.",
+			"email",
+			"PXLISTVIEW"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "memdb/__init__.py",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
