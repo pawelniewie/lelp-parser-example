@@ -15,7 +15,7 @@ class Parser:
 		beginOpertor = Literal("BEGIN") > self.begin
 		endOperator = Literal("END")
 		newline = spaces & Newline() & spaces
-		line = setOperator | getOperator | unsetOperator | numEqualToOperator | commitOperator | rollbackOperator | beginOpertor | endOperator
+		line = setOperator | getOperator | unsetOperator | numEqualToOperator | commitOperator | rollbackOperator | beginOpertor | endOperator | newline
 		self.expression = line[0:, ~newline]
 
 		self.db = memdb
@@ -45,6 +45,7 @@ class Parser:
 		self.db.begin()
 
 	def parseFile(self, input, output):
+		self.expression.config.clear() # faster compilation time, http://www.acooke.org/lepl/examples.html
 		for p in self.expression.parse(input):
 			if p == "END":
 				break
