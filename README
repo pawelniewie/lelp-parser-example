@@ -1,0 +1,7 @@
+To run the tool against data:
+
+python3 cli.py < tests/data/1.in
+
+To run tests:
+
+python3 -m unittest tests/*.py
