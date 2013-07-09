@@ -4,6 +4,86 @@
 		"selected_items":
 		[
 			[
+				"test",
+				"test_path"
+			],
+			[
+				"data",
+				"data_dir"
+			],
+			[
+				"d",
+				"db"
+			],
+			[
+				"b",
+				"begin"
+			],
+			[
+				"r",
+				"rollback"
+			],
+			[
+				"co",
+				"commit"
+			],
+			[
+				"n",
+				"numEqualTo"
+			],
+			[
+				"Zero",
+				"ZeroOrMore"
+			],
+			[
+				"mem",
+				"MemDb"
+			],
+			[
+				"parse",
+				"parseFile"
+			],
+			[
+				"e",
+				"endOperator"
+			],
+			[
+				"be",
+				"beginOpertor"
+			],
+			[
+				"ro",
+				"rollbackOperator"
+			],
+			[
+				"a",
+				"alphas"
+			],
+			[
+				"s",
+				"snapshots"
+			],
+			[
+				"assert",
+				"assertEqual"
+			],
+			[
+				"tran",
+				"transactions"
+			],
+			[
+				"tra",
+				"transactions"
+			],
+			[
+				"tr",
+				"transactions"
+			],
+			[
+				"transa",
+				"transaction"
+			],
+			[
 				"acc",
 				"access_token"
 			],
@@ -55,17 +135,6 @@
 	},
 	"buffers":
 	[
-		{
-			"contents": "",
-			"file": "memdb/__init__.py",
-			"file_size": -1,
-			"file_write_time": -1,
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -152,14 +221,47 @@
 	"file_history":
 	[
 		"/Users/pawel/Development/memdb/memdb/__init__.py",
-		"/Users/pawel/.ssh/config",
-		"/Users/pawel/Dropbox/hasła.txt",
+		"/Users/pawel/Development/memdb/tests/data/4.in",
+		"/Users/pawel/Development/memdb/tests/data/1.in",
+		"/Users/pawel/Development/memdb/tests/data/2.in",
+		"/Users/pawel/Development/memdb/tests/data/5.in",
+		"/Users/pawel/Development/memdb/memdb/parser.py",
+		"/Users/pawel/Development/memdb/cli.py",
+		"/Users/pawel/Development/memdb/tests/cli.py",
+		"/Users/pawel/Development/memdb/tests/data/3.in",
+		"/Users/pawel/Development/memdb/tests/data/3.out",
 		"/Users/pawel/Development/atlassian/jira-master/.git/MERGE_MSG",
-		"/Users/pawel/.m2/settings.xml",
-		"/Users/pawel/Development/atlassian/jira-rest/release.",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestCloneIssueLinking.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestProjectImportNoProjectWithUnassignedOff.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestProjectImportNoProjectWithUnassignedOn.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestProjectImportResults.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestProjectImportResults2.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestRemoteIssueLinkResource.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-func-tests/src/main/xml/TestSubtaskSecurity.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestProjectConfigSummaryPeoplePanelWithDeletedButAssignableUser.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestProjectSelectForCreate.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestQuickCreateIssue.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestQuickEditIssue.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestLinkIssueSortingOrder.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestSubtasksInCreateIssue.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestLinkIssueWithPriorityFieldHiddenEnterprise.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestLinkIssueWithMinimalRemoteIssueLinkFields.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestLinkIssueWithIssueLinkingDisabled.xml",
+		"/Users/pawel/Downloads/entities.xml",
+		"/Users/pawel/Development/atlassian/jira-master/jira-webdriver-tests/src/main/xml/TestCreateSubtasks.xml",
+		"/Users/pawel/Development/memdb/tests/parser.py",
+		"/Users/pawel/Development/memdb/tests/__init__.py",
+		"/Users/pawel/Development/memdb/tests/data/1",
+		"/Users/pawel/Development/memdb/tests/data/2",
 		"/Users/pawel/Development/atlassian/jira-rest/release.sh",
-		"/Users/pawel/Development/atlassian/jira-rest/pom.xml",
 		"/Users/pawel/Development/atlassian/jira-master/pom.xml",
+		"/Users/pawel/.ssh/config",
+		"/Users/pawel/Development/atlassian/jira-rest/release.",
+		"/Users/pawel/Development/atlassian/jira-rest/pom.xml",
+		"/Users/pawel/Development/atlassian/jira-rest/.git/MERGE_MSG",
+		"/Users/pawel/Development/memdb/memdb/parser.g",
+		"/Users/pawel/Dropbox/hasła.txt",
+		"/Users/pawel/.m2/settings.xml",
 		"/Users/pawel/Dropbox/Shell/maven.sh",
 		"/Users/pawel/.gitconfig",
 		"/Users/pawel/Development/menu-on-steroids/app.rb",
@@ -245,40 +347,7 @@
 		"/etc/passwd",
 		"/Users/pawel/Development/Sparkle/Sample Appcast.xml",
 		"/Users/pawel/Development/Buffered/Buffered.podspec",
-		"/Users/pawel/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/pawel/Development/Queued/xcode-git-version.sh",
-		"/Users/pawel/Library/Developer/Xcode/DerivedData/Queued-dggxaguyqhiemthevbespdepkfie/Build/Products/Debug/Queued.app/Contents/Info.plist",
-		"/Users/pawel/Documents/queuedupdates.appspot.com.xml",
-		"/Users/pawel/Development/Sparkle/Makefile",
-		"/Users/pawel/Development/Queued/Updates/index.yaml",
-		"/Users/pawel/Development/atlassian/automat/target/jira/home/automat/issueUpdated.sh",
-		"/Users/pawel/Development/Hoopoe/gtm-oauth-read-only/Source/GTMOAuth.xcodeproj/project.pbxproj",
-		"/Users/pawel/Development/trellomail/Gemfile",
-		"/Library/Ruby/Gems/1.8/gems/omniauth-trello-0.0.2/lib/omniauth/strategies/trello.rb",
-		"/Users/pawel/Development/ruby-trello/lib/trello/member.rb",
-		"/Users/pawel/Development/ruby-trello/lib/trello/board.rb",
-		"/Users/pawel/Development/trellomail/views/imap.erb",
-		"/Users/pawel/Development/trellomail/web.rb",
-		"/Users/pawel/Library/Application Support/RapidWeaver/Hero.rwtheme/Contents/js/raphael.js",
-		"/Users/pawel/Library/Application Support/RapidWeaver/Hero.rwtheme/Contents/js/yuzoolthemes.js",
-		"/Users/pawel/Development/Hoopoe/PXListView/PXListView-Library.xcconfig",
-		"/Library/Ruby/Gems/1.8/gems/omniauth-oauth-1.0.1/lib/omniauth/strategies/oauth.rb",
-		"/Library/Ruby/Gems/1.8/gems/omniauth-1.1.1/lib/omniauth/strategy.rb",
-		"/Library/Ruby/Gems/1.8/gems/oauth-0.4.7/lib/oauth/tokens/request_token.rb",
-		"/System/Library/Frameworks/Ruby.framework/Versions/1.8/usr/lib/ruby/1.8/cgi.rb",
-		"/Users/pawel/Development/trellomail/config.ru",
-		"/Users/pawel/Development/trellomail/Procfile",
-		"/Users/pawel/Development/trellomail/views/index.erb",
-		"/Users/pawel/Development/trellomail/views/fail.erb",
-		"/Users/pawel/Development/trellomail/views/done.erb",
-		"/Users/pawel/Development/trellomail/showlogs",
-		"/Users/pawel/Development/trellomail/papertrail-heroku-plugin/test/papertrail_test.rb",
-		"/Users/pawel/Development/trellomail/push2heroku",
-		"/Users/pawel/Development/Hoopoe/Pods/Pods.xcodeproj/project.pbxproj",
-		"/Users/pawel/Development/Hoopoe/Pods/Pods-HoopoeTests.xcconfig",
-		"/Users/pawel/Library/bin/subl",
-		"/Users/pawel/Development/Hoopoe/Podfile",
-		"/Users/pawel/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+		"/Users/pawel/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap"
 	],
 	"find":
 	{
@@ -296,6 +365,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"RemoteIs",
+			"RemoteIssueL",
+			"keybo",
+			"Yet ano",
+			"RemoteIssueLi",
+			"10100",
+			"TSTSUP-111",
+			"keyboard bro",
+			"Mouse Brok",
+			"Yet Ano",
+			"RemoteIssueL",
+			"RemoteIssueLi",
+			"~spaces",
+			"javadoc",
+			"rest",
+			"None",
+			"transactions",
 			"KA",
 			"jira-is",
 			"uild these module",
@@ -338,124 +424,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "memdb/__init__.py",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110.0
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2.0,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Python/Python.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
